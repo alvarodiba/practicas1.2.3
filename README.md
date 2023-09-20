@@ -1,4 +1,4 @@
-# practicas1.2.3
+# EJERCICIOS DE TECNOLOGÍA
 
 # Ejercicio 1 
 1.- Realizar en el siguiente HTML 5 declaraciones de estilo CSS para realizarla página tal y como se muestra en la imagen utilizando display GRID.
